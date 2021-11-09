@@ -1,1 +1,20 @@
-/* Add your own styles */
+title {
+    color: blue;
+}
+
+body {
+    background-color: pink;
+    width: 900px;
+    margin: auto;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+table,
+th,
+td {
+    margin-top: 15px;
+    padding: 2px;
+    border: 1px solid black;
+}
