@@ -1,5 +1,5 @@
 window.onload=function(){
-    var lookup= document.getElementById("lookup");
+    var lookupcountries= document.getElementById("lookup");
     var countryname=document.getElementById("country");
     var result=document.getElementById("result");
     var lookupcities=document.getElementById("lookupcities");
